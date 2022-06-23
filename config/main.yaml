@@ -1,0 +1,8 @@
+binary:
+  path: data/binary
+
+multiclass:
+  path: data/multiclass
+
+regression:
+  path: data/regression
