@@ -1,1 +1,1 @@
-# sound-termometer
+# sound-thermometer
